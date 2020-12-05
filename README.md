@@ -1,2 +1,2 @@
 # simple-quote-page
-first repo
+simple-quote-page
