@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+}
+img {
+  width: 100%;
+  height: auto;  
+}
+body {
+  background: https://raw.githubusercontent.com/CodeBerrySchool/simple-quote-page/master/assets/freedom.jpg no repeat center center fixed;
+  background-size: cover;
+}
+.container {
+  position: fixed;
+  text-align: center;
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
