@@ -10,13 +10,14 @@ body {
   font-size: 100%;
 }
 .container {
+  position: relative;
+  top: 50px;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
   max-width: calc(100vw - 5px);
   height: 30%;
-  max-height: calc(100vw - 50px);
-  margin-top: 80px;
+  max-height: calc(100vw - 70px);
   text-align: center;
   font-family: Raleway sans-serif;
   }
