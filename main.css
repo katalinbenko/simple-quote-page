@@ -6,7 +6,7 @@ img {
   height: auto;  
 }
 body {
-  background: https://raw.githubusercontent.com/CodeBerrySchool/simple-quote-page/master/assets/freedom.jpg no repeat center center fixed;
+  background: url("https://raw.githubusercontent.com/CodeBerrySchool/simple-quote-page/master/assets/freedom.jpg") no repeat center center fixed;
   background-size: cover;
 }
 .container {
